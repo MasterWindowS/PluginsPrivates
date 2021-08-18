@@ -17,6 +17,8 @@ Plugins are sold through paypal. These plugins are from external people, but mod
 
 ☞Plugins hide and seek --> It is the hns game mode (terrorists have to search while counter-terrorists have to hide) but completely created by me based on several plugins.
 
+☞I also offer my services as a csgo server configurator. (An important thing to understand is that I don't sell servers and every configuration is completely made from scratch by me. You pay for a server on the host you want and contact me.)
+
 Anything you want to talk to my steam or my discord
 
 Discord: MasterWindowS#2387                                                Steam: https://steamcommunity.com/id/TheMasterWindowS01/
