@@ -13,7 +13,9 @@ Plugins are sold through paypal. These plugins are from external people, but mod
 
 ☞Only admins - no admins --> This helps you to select admins only or non-admins.      @admins --> Admins only   @!admins--> Non-admins people only
 
-☞Tienda DM     --> It is a store for the DM - Battle royale that some servers have that is based on jail_awards that allows you to buy prizes.
+☞Shop DM     --> It is a store for the DM - Battle royale that some servers have that is based on jail_awards that allows you to buy prizes.
+
+☞Plugins hide and seek --> It is the hns game mode (terrorists have to search while counter-terrorists have to hide) but completely created by me based on several plugins.
 
 Anything you want to talk to my steam or my discord
 
