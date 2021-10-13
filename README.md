@@ -1,9 +1,7 @@
 # PluginsPrivates
 Plugins are sold through paypal. These plugins are from external people, but modified by me.
 
-☞DropsSummoner --> Enables the drop of boxes on the server (hydra box, stings, etc) of all types of boxes. This is completely random.
-
-☞Jail_awards   --> Plugin to buy jail rewards
+☞Jail_awards   --> Plugin to buy jail rewards (It is the Franc1sco version but with more items)
 
 ☞invisible_man --> It is a css game mode that chooses a random terrorist and turns him into a predator with 5000hp of life and becomes invisible every few seconds.
 
